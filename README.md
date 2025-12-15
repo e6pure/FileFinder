@@ -74,8 +74,9 @@ Contributions are welcome! Please submit issues or pull requests for bug fixes, 
 ## Contact / Support
 
 GitHub: https://github.com/e6pure
+Email: e6pure42@gmail.com
 
-## 📝 Changelog
+## Changelog
 
 ### v1.1
 *   Changed UI language to English.
@@ -84,6 +85,6 @@ GitHub: https://github.com/e6pure
 *   Added automatic file renaming to prevent overwriting during Copy operations.
 *   Improved error handling for individual files.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
